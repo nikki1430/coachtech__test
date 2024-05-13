@@ -2,7 +2,9 @@
 
 _環境構築_
 
-Dockerビルド　　１.docker-compose up -d -build
+Dockerビルド　　
+
+１.docker-compose up -d -build
 
 _Laravel環境構築_
  
@@ -14,7 +16,7 @@ _Laravel環境構築_
 
   _使用技術_
 
-  ・　php　7.4.9
+  ・php　7.4.9
 
   ・laravel　8.0
 
