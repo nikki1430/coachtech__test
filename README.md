@@ -8,11 +8,11 @@ Dockerビルド　　
 
 _Laravel環境構築_
  
- 　　docker-compose exec php bash
+ 　　docker-compose exec php bash  
 
-  composer -v
+  composer -v  
 
-  composer create-project "laravel/laravel=8.*" . --prefer-dist
+  composer create-project "laravel/laravel=8.*" . --prefer-dist  
 
   _使用技術_
 
